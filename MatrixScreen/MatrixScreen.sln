@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MatrixScreen", "MatrixScreen\MatrixScreen.pyproj", "{257E2C28-E71F-436B-8A05-43B883D2BA56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{257E2C28-E71F-436B-8A05-43B883D2BA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257E2C28-E71F-436B-8A05-43B883D2BA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1E2DF40-CB5F-4399-9D76-DB5481068E41}
+	EndGlobalSection
+EndGlobal
