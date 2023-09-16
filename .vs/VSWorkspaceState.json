@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MatrixScreen",
+    "\\MatrixScreen\\MatrixScreen"
   ],
-  "SelectedNode": "\\C:\\Users\\userm\\Source\\Repos\\PythonPublic",
+  "SelectedNode": "\\MatrixScreen\\MatrixScreen\\MatrixScreen.py",
   "PreviewInSolutionExplorer": false
 }

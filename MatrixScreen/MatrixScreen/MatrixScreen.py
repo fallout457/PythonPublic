@@ -1,8 +1,22 @@
-import random
+﻿import random
+import sys
+import time
+
+_characters=[" ","0","1"]
 
 
-characters=["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", "1", "2", "3", "4", "5", "6", "7", "8","9","0"]
+try:
+    while True:
+        _lettersToBeShown = ""
+        x = 0
+        y = random.randint(40,120)
+        for a in range(x, y):
+            _lettersToBeShown = _lettersToBeShown + _characters[random.randint(0,2)]
+        
+            
+        print('\033[92m' + _lettersToBeShown)
 
-
-
-while True    
+except:
+    print("\nQuiting...")
+    sys.exit()
+    
